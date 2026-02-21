@@ -15,6 +15,10 @@ A-Dect dikembangkan sebagai media pembelajaran dan eksplorasi dalam bidang keama
 
 ## Persyaratan Perangkat
 
+<p align="center">
+  <img src="gambar.jpeg" width="200" alt="Hardware Tanpa Modifikasi">
+</p>
+
 - **Mikrokontroler**: ESP8266 (NodeMCU v2/v3 atau ESP-12E).
 - **Layar (Opsional)**: SSD1306 128x64 OLED (I2C). (Bisa di disable di config.h)
 - **Koneksi**: Kabel data Micro USB untuk proses flashing.
